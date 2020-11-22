@@ -1,0 +1,19 @@
+body{
+  height: 100%;
+
+
+  /* The image used */
+  background-image: url("logofor.png");
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.text-centerw3-button {
+
+alignment-baseline: central;
+}
